@@ -6,3 +6,6 @@ CSS
 General
 - [HTML/CSS Fundamentals](https://learn.shayhowe.com/html-css/)
 - [Front End Wizard](https://frontendwiz.co.uk)
+
+Katas
+- [CodeWars](https://www.codewars.com)
