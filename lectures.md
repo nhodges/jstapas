@@ -6,3 +6,5 @@
 ## Talks
 - [JS Must Watch](https://github.com/bolshchikov/js-must-watch)  
   Collection of "must-watch" JavaScript videos.
+- [On the Spectrum of Abstraction](https://www.youtube.com/watch?v=mVVNJKv9esE)  
+  Cheng Lou @ React Europe 2016
