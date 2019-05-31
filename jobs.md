@@ -1,5 +1,5 @@
 ## Interviewing
-- [interviewing.io](interviewing.io). 
+- [interviewing.io](interviewing.io).  
   Free anonymous technical interview practice.
 
 ## Search
